@@ -439,6 +439,7 @@ struct PinId final: Details::SafePointerType<PinId>
 } // namespace Editor
 } // namespace ax
 
+namespace ImGuiNE = ax::NodeEditor;
 
 //------------------------------------------------------------------------------
 # endif // __IMGUI_NODE_EDITOR_H__
